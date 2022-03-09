@@ -134,6 +134,10 @@ body {
   font-weight: 600;
 }
 
+.padding-right {
+  padding-right: 1.5rem;
+}
+
 .heading--dark {
   color: rgb(72, 85, 106);
 }
