@@ -4,7 +4,7 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ## Overview
 
-** I did this solution without figma design because i do not have PRO Plan on Frontend Mentor, so this was very hard to make it PIXEL PERFECT **
+**I did this solution without figma design because i do not have PRO Plan on Frontend Mentor, so this was very hard to make it PIXEL PERFECT**
 
 ### Links
 
