@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonial Grid Section
 
-This is a solution to the [NFT preview card component](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Testimonial Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
